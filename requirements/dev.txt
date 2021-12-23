@@ -8,7 +8,7 @@ appdirs==1.4.3
     # via virtualenv
 astroid==2.3.3
     # via pylint
-click==7.1.1
+click>=7.1.1
     # via pip-tools
 coverage==5.0.4
     # via -r dev.in
